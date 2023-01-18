@@ -68,6 +68,9 @@ table {
 	color: #3A3A3A;
 	opacity: 1;
 }
+.index:hover{
+	color: #F9C745;
+}
 .ser{
 	position:absolute;
 	top: 34px;
